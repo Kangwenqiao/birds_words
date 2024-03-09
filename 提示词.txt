@@ -37,3 +37,19 @@ Tailwind CSS: Ò»¸ö¹¦ÄÜÀàÓÅÏÈµÄCSS¿ò¼Ü£¬ÓÃÓÚ¿ìËÙÉè¼Æ×Ô¶¨ÒåÓÃ»§½çÃæ¡£ËüÌá¹©ÁË´óÁ¿µ
 FontAwesome: Ò»¸öÍ¼±ê¿âºÍ¹¤¾ßÌ×¼þ£¬Ìá¹©ÁË¿ÉÓÃÓÚÍøÒ³Éè¼ÆµÄÊ¸Á¿Í¼±êºÍÉç½»Ã½ÌåÍ¼±ê¡£ÔÚÕâ¸öÍøÒ³ÉÏ£¬FontAwesomeÓÃÓÚÌí¼ÓÊÓ¾õÎüÒýÁ¦ºÍÌá¸ßÓÃ»§½çÃæµÄÈÏÖªÐ§ÂÊ¡£
 
 JavaScript: ÓÃÓÚÍøÒ³µÄ½»»¥ÐÔ¹¦ÄÜ£¬Èçµã»÷ÊÂ¼þ´¦Àíº¯ÊýrotateImage£¬¸Ãº¯ÊýÓÃÓÚÐý×ªÍ¼Æ¬Ð§¹û£¬Ôö¼ÓÁËÒ³ÃæµÄ¶¯Ì¬»¥¶¯ÐÔ¡£
+
+m3e-base:{M3EÄ£ÐÍÊÇMoka Massive Mixed EmbeddingµÄËõÐ´£¬ÊÇÒ»ÖÖÎÄ±¾Ç¶ÈëÄ£ÐÍ¡£ÒÔÏÂÊÇ¹ØÓÚM3EÄ£ÐÍµÄ×Ü½á£º
+
+Ä£ÐÍ½éÉÜ£ºM3EÊÇÓÉMokaAIÑµÁ·ºÍ¿ªÔ´µÄÎÄ±¾Ç¶ÈëÄ£ÐÍ£¬Í¨¹ýÊ¹ÓÃ´ó¹æÄ£µÄÖÐÎÄ¾ä¶ÔÊý¾Ý¼¯£¨2200Íò+£©½øÐÐÑµÁ·¡£
+
+Ä£ÐÍÌØµã£ºM3EÖ§³ÖÖÐÓ¢Ë«ÓïµÄÍ¬ÖÊÎÄ±¾ÏàËÆ¶È¼ÆËã£¬ÒìÖÊÎÄ±¾¼ìË÷µÈ¹¦ÄÜ£¬²¢ÇÒÎ´À´»¹»áÖ§³Ö´úÂë¼ìË÷¡£ËüÄÜ¹»½«×ÔÈ»ÓïÑÔ×ª»»³É³íÃÜµÄÏòÁ¿¡£
+
+Ä£ÐÍÖÖÀà£ºM3E¹²ÓÐÈýÖÖ²»Í¬¹æÄ£µÄÄ£ÐÍ£¬·Ö±ðÊÇm3e-small¡¢m3e-baseºÍm3e-large£¬Ã¿ÖÖÄ£ÐÍ¾ßÓÐ²»Í¬µÄÎ¬¶ÈºÍÐÅÏ¢±í´ïÄÜÁ¦¡£
+
+Ê¹ÓÃ·½·¨£º¿ÉÒÔÊ¹ÓÃsentence-transformers¿â¼ÓÔØºÍÊ¹ÓÃM3EÄ£ÐÍ£¬Í¨¹ýµ÷ÓÃencode·½·¨½«ÎÄ±¾×ª»»ÎªÏòÁ¿±íÊ¾¡£
+
+Ä£ÐÍÆÀ¹À£º¿ÉÒÔÊ¹ÓÃL2¾àÀëµÈ·½·¨¶ÔÄ£ÐÍÐ§¹û½øÐÐÆÀ¹À£¬±È½ÏÏàÍ¬ÓïÒåºÍ²»Í¬ÓïÒåÎÄ±¾Ö®¼äµÄÏàËÆ¶È¡£
+
+ÕæÊµ³¡¾°Ó¦ÓÃ£ºM3EÄ£ÐÍ¿ÉÒÔÓ¦ÓÃÓÚËÑË÷¡¢ÍÆ¼ö¡¢·ÖÀàµÈ¶à¸öÁìÓò£¬ÄÜ¹»´¦ÀíÕæÊµ³¡¾°ÖÐµÄÎÄ±¾ÎÊÌâ¡£
+
+ÏòÁ¿¿ÉÊÓ»¯£º¿ÉÒÔÊ¹ÓÃ½µÎ¬Ëã·¨ÈçTSNEºÍPCA½«ÎÄ±¾ÏòÁ¿¿ÉÊÓ»¯Îª¶þÎ¬»òÈýÎ¬¿Õ¼ä£¬ÒÔ±ã¸üºÃµØÀí½â²»Í¬ÎÄ±¾Ö®¼äµÄ¹ØÏµ¡£}
